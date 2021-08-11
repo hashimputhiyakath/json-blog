@@ -1,0 +1,14 @@
+var posts [
+  {
+    Title: "First blog title",
+    Desc : "Description snipet of the blog pot gere",
+  },
+  {
+    Title: "Second blog title",
+    Desc : "Description snipet of the blog pot gere",
+  },
+  {
+    Title: "Third blog title",
+    Desc : "Description snipet of the blog pot gere",
+  }
+]
